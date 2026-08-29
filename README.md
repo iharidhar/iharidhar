@@ -1,23 +1,16 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Hari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    src="https://raw.githubusercontent.com/iharidhar/iharidhar/main/assets/matrix-header.gif"
     width="100%"
+    alt="Hi Visitor, I'm Hari"
   />
 </p>
-<h1 align="center">Hi 👋, I'm Hari</h1>
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Graduate;Software+Developer;React.js+%7C+Django+%7C+Python;Building+Real-World+Projects"
     alt="Typing SVG"
   />
 </p>
-
-<p align="center">
-  <a href="https://github.com/iharidhar">
-    <img src=""/>
-  </a>
-</p>
-
 ## 👨‍💻 About Me
 
 I'm a Computer Science & Engineering graduate interested in
