@@ -1,7 +1,8 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/iharidhar/iharidhar/main/assets/matrix-header.gif"
+    src="https://github.com/iharidhar/iharidhar/blob/main/haridhar_01_falling.gif"
     width="100%"
+    height="150"
     alt="Hi Visitor, I'm Hari"
   />
 </p>
