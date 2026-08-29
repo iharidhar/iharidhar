@@ -12,21 +12,12 @@
   />
 </p>
 
-<h3 align="center">
-Computer Science & Engineering Graduate | Software Developer
-</h3>
-
 <p align="center">
   <a href="https://github.com/iharidhar">
     <img src=""/>
   </a>
 </p>
 
-<p align="center">
-  💻 Building software projects &nbsp; • &nbsp;
-  🚀 Exploring modern technologies &nbsp; • &nbsp;
-  🌱 Continuously learning
-</p>
 ## 👨‍💻 About Me
 
 I'm a Computer Science & Engineering graduate interested in
