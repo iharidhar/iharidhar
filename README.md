@@ -1,11 +1,6 @@
-<p align="center">
-  <img
-    src="https://github.com/iharidhar/iharidhar/blob/main/haridhar_01_falling.gif"
-    width="100%"
-    height="150"
-    alt="Hi Visitor, I'm Hari"
-  />
-</p>
+<h1 align="center">
+  Hi 👋, I'm Haridhar Illuri
+</h1>
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Graduate;Software+Developer;React.js+%7C+Django+%7C+Python;Building+Real-World+Projects"
