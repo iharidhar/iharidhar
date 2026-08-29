@@ -48,14 +48,6 @@ software development and modern web technologies.
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/iharidhar/iharidhar/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
 ## 🤝 Connect With Me
 
 <p align="center">
